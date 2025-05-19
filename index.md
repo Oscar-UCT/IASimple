@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Introducción
-      link: /introducción
+      link: /articulos/cómo-usar
     - theme: alt
       text: Preguntas Frecuentes
-      link: /preguntas-frecuentes
+      link: /articulos/preguntas-frecuentes
   image:
     src: /rocket.png
     alt: Icono IASimple
@@ -20,12 +20,12 @@ hero:
 features:
   - icon: 🧠
     title: Artículos sencillos
-    details: Artículos escritos cuidadósamente sumamente fáciles de entender.
+    details: Artículos escritos cuidadósamente sumamente fáciles de comprender.
   - icon: 🔍
     title: Recursos seleccionados
     details: Herramientas de IA seleccionadas con cuidado. Compartimos las mejores herramientas disponibles.
   - icon: 📑
     title: Referencia o guía
-    details: Sitio orientado a servir como referencia o guía, adaptándose a tus necesidades.
+    details: Sitio orientado a servir como referencia o guía, adaptándose a tus necesidades como docente.
 ---
 

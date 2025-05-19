@@ -1,0 +1,2 @@
+# Ideas para actividades
+Muchas veces podrás quedarte sin ideas sobre qué hacer en una clase, ya sean actividades, trabajos o proyectos. Con la IA podrás hacer una lluvia de ideas organizada para idear actividades dinámicas, trabajos interesantes y proyectos desafiantes para tus estudiantes.

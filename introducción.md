@@ -1,1 +1,0 @@
-# Este artículo es introductorio

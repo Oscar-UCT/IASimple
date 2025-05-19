@@ -1,0 +1,2 @@
+# Debates contra la IA
+Los debates son un ejercicio muy útil para que los estudiantes puedan desarrollar el pensamiento crítico sobre la materia que estén cursando, al analizar posturas, argumentos y datos objetivos. El problema, es que estos debates pueden exigir mucha preparación por parte de los estudiantes. Una alternativa es darle a la IA un rol específico, y los estudiantes deberán refutar a la IA hasta alcanzar un consenso.

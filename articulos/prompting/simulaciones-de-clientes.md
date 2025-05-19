@@ -1,0 +1,2 @@
+# Simulaciones de clientes
+Acercar a los estudiantes al mundo real es una gran dificultad que las universidades deben abarcar. Con ayuda de la IA, podrás pedirle que tome un rol específico: un paciente clínico, un cliente, un usuario, o a quien tú consideres adecuado.

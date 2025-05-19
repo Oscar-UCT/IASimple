@@ -10,20 +10,39 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Inicio', link: '/' },
-      { text: 'Artículos', link: '/introducción' }
+      { text: 'Artículos', link: '/articulos/cómo-usar' }
     ],
 
     sidebar: [
       {
-        text: 'Artículos',
+        text: 'Introducción',
         items: [
-          { text: 'Introducción', link: '/introducción' },
+          { text: 'Cómo usar este sitio', link: '/articulos/cómo-usar' },
+          { text: 'Mejores prácticas', link: '/articulos/mejores-prácticas' },
+        ]
+      },
+      {
+        text: 'Prompting',
+        items: [
+          { text: 'Creando una guía de trabajo', link: '/articulos/prompting/creando-una-guía-de-trabajo' },
+          { text: 'Evaluaciones preparatorias', link: '/articulos/prompting/evaluaciones-preparatorias' },
+          { text: 'Debates contra la IA', link: '/articulos/prompting/debates-contra-la-ia' },
+          { text: 'Simulaciones de clientes', link: '/articulos/prompting/simulaciones-de-clientes' },
+          { text: 'Ideas para actividades', link: '/articulos/prompting/ideas-para-actividades' },
+        ]
+      },
+      {
+        text: 'Material',
+        items: [
+          { text: 'Resumir documentos', link: '/articulos/material/resumir-documentos' },
+          { text: 'Adaptando contenido', link: '/articulos/material/adaptando-contenido' },
+          { text: 'Crear presentaciones', link: '/articulos/material/crear-presentaciones' },
         ]
       },
       {
         text: 'Sobre nosotros',
         items: [
-          { text: 'Preguntas Frecuentes', link: '/preguntas-frecuentes' },
+          { text: 'Preguntas Frecuentes', link: '/articulos/preguntas-frecuentes' },
         ]
       }
     ],
@@ -31,6 +50,12 @@ export default defineConfig({
     outline:
     {
       label: "Contenido",
+    },
+
+    docFooter:
+    {
+      prev: "Artículo anterior",
+      next: "Siguiente artículo"
     },
 
     logo: "../cohete_icono.svg",
@@ -62,8 +87,19 @@ export default defineConfig({
       }
     },
 
+
     socialLinks: [
       { icon: 'github', link: 'https://github.com/oscar-uct/iasimple' }
     ]
-  }
+  },
+  markdown:
+  {
+    container: {
+      infoLabel: 'Información',
+      tipLabel: 'Consejo',
+      warningLabel: 'Advertencia',
+      dangerLabel: 'Peligro',
+      detailsLabel: 'Detalles'
+    }
+  },
 })

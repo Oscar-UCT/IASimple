@@ -1,0 +1,2 @@
+# Buscando bibliografía
+A veces la búsqueda de contenido o bibliografía actualizada puede ser un reto para cualquier docente. A continuación, te mostramos distintos prompts que podrán ayudarte en esta tarea.
