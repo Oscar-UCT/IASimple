@@ -1,2 +1,7 @@
 # Debates contra la IA
-Los debates son un ejercicio muy útil para que los estudiantes puedan desarrollar el pensamiento crítico sobre la materia que estén cursando, al analizar posturas, argumentos y datos objetivos. El problema, es que estos debates pueden exigir mucha preparación por parte de los estudiantes. Una alternativa es darle a la IA un rol específico, y los estudiantes deberán refutar a la IA hasta alcanzar un consenso.
+En este artículo encontrarás una forma de interactuar con la IA para poder hacer un debate guiado y pedagógico, eligiendo qué postura deberá tomar y cómo deberá responder.
+
+## Prompt inicial
+```Prompt
+Queremos realizar un debate pedagógico y guiado en donde tú, la inteligencia artificial, tomará la postura [a favor, en contra] sobre [tema]. El procedimiento será el siguiente: empezaremos introduciendo nuestro tema y por qué estamos [a favor, en contra]. Luego, tú presentarás tus argumentos principales, de forma general.
+```

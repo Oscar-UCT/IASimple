@@ -25,7 +25,6 @@ export default defineConfig({
         text: 'Prompting',
         items: [
           { text: 'Creando una guía de trabajo', link: '/articulos/prompting/creando-una-guía-de-trabajo' },
-          { text: 'Evaluaciones preparatorias', link: '/articulos/prompting/evaluaciones-preparatorias' },
           { text: 'Debates contra la IA', link: '/articulos/prompting/debates-contra-la-ia' },
           { text: 'Simulaciones de clientes', link: '/articulos/prompting/simulaciones-de-clientes' },
           { text: 'Ideas para actividades', link: '/articulos/prompting/ideas-para-actividades' },

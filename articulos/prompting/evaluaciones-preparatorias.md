@@ -1,2 +1,0 @@
-# Evaluaciones preparatorias
-Los estudiantes suelen beneficiarse enormemente cuando se les da una evaluación preparatoria ligeramente distinta antes de la evaluación real. El problema, es que hacer estas evaluaciones toma demasiado tiempo. Con ayuda de la IA, podrás crear estas evaluaciones rapidamente y tan solo deberás verificar que las preguntas y respuestas estén correctas.

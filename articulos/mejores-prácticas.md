@@ -1,5 +1,5 @@
 # Mejores prácticas
-A continuación te mostraremos las mejores prácticas y recomendaciones para usar la inteligencia artificial, para asegurar la protección de tus datos, protegerte a ti y a tus estudiantes de información falsa y para usarlas de forma ética.
+En este artículo te compartimos lo que consideramos como las mejores prácticas y recomendaciones para usar la inteligencia artificial, para asegurar la protección de tus datos, protegerte a ti y a tus estudiantes de información falsa y para usar la IA de forma ética.
 
 ### Claridad en lo que pidas
 Usa lenguaje claro y directo al pedir algo de una IA. Mientras más detallada la solicitud, mejor.
