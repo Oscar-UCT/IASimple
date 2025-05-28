@@ -3,6 +3,9 @@ En esta introducción, te mostramos cómo está estructurado este sitio web y la
 
 ## Estructura de los artículos
 Decidimos dividir los tipos de artículos en 2 categorías: prompting y material. En la categoría de prompting, encontrarás artículos con prompts los cuales podrás copiar y pegar y adaptar a cada caso, según lo necesites. En la categoría de material, encontrarás artículos donde trabajarás con material ya existente (que entregarás a la IA, por ejemplo, PDFs), o en donde crearás material, por ejemplo, presentaciones.
+::: info
+Prompt significa instrucción, en el contexto del uso de las IA.
+:::
 
 ## Navegación
 Todos los artículos se encuentran en la barra de navegación de la izquierda. Igualmente, cada artículo tiene un índice a la derecha, para que puedas encontrar el contenido que buscas rápidamente. Por último, tienes un campo de búsqueda en la navegación superior, donde puedes buscar palabras, títulos y subtítulos, pudiendo ir rápidamente a cualquier artículo o sección.

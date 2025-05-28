@@ -3,5 +3,12 @@ En este artículo encontrarás una forma de interactuar con la IA para poder hac
 
 ## Prompt inicial
 ```Prompt
-Queremos realizar un debate pedagógico y guiado en donde tú, la inteligencia artificial, tomará la postura [a favor, en contra] sobre [tema]. El procedimiento será el siguiente: empezaremos introduciendo nuestro tema y por qué estamos [a favor, en contra]. Luego, tú presentarás tus argumentos principales, de forma general.
+Vamos a tener un debate guiado. Elige una postura contraria
+a la mía sobre el siguiente tema: [tema]. Yo escribiré un
+argumento breve y tú responderás con un contraargumento claro,
+específico y crítico, sin divagar ni usar falacias.
+Después de 3 a 5 intercambios, cambiaremos roles
+y tú defenderás mi postura original. Al final, haz una
+síntesis que combine lo mejor de ambos lados y muestre
+una comprensión profunda del tema. Comienza cuando esté listo.
 ```
