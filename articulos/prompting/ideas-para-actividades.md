@@ -10,7 +10,7 @@ donde desarrollen las siguientes aptitudes: [lista de aptitudes], actividades qu
 promuevan el trabajo en equipo, la comunicación y el compartir ideas.
 Deberían tener una duración aproximada de [tiempo en minutos] minutos. Se usarán
 las siguientes herramientas: [lista de herramientas]. Asegúrate de que sean
-actividades pedagógicas y que promuevan el desarrollo personal, y para que
+actividades pedagógicas y que promuevan el desarrollo personal, para que
 los estudiantes aprendan con actividades prácticas.
 ```
 Deberás cambiar:

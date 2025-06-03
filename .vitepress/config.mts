@@ -28,14 +28,16 @@ export default defineConfig({
           { text: 'Debates contra la IA', link: '/articulos/prompting/debates-contra-la-ia' },
           { text: 'Simulaciones de clientes', link: '/articulos/prompting/simulaciones-de-clientes' },
           { text: 'Ideas para actividades', link: '/articulos/prompting/ideas-para-actividades' },
+          { text: 'Buscando bibliografía', link: '/articulos/prompting/buscando-bibliografía' },
         ]
       },
       {
         text: 'Material',
         items: [
           { text: 'Resumir documentos', link: '/articulos/material/resumir-documentos' },
-          { text: 'Adaptando contenido', link: '/articulos/material/adaptando-contenido' },
+          // { text: 'Adaptando contenido', link: '/articulos/material/adaptando-contenido' },
           { text: 'Crear presentaciones', link: '/articulos/material/crear-presentaciones' },
+          // { text: 'Transcripción de audio', link: '/articulos/material/transcripción-de-audio' },
         ]
       },
       {
